@@ -1,0 +1,24 @@
+*.class
+
+# Package Files #
+*.jar
+**/*.jar
+*.war
+*.ear
+
+#idea
+.idea/
+*.iml
+
+#Maven
+targer/
+**/target/
+
+#Zip
+**/*.zip
+
+#Logs
+
+**/*.log
+
+**/db_connection.properties
